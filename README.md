@@ -1,4 +1,4 @@
-# Hidden-Search-Widget
+# Search-Widget
 
 A versatile search widget project built using HTML, CSS, and JavaScript. This widget remains initially hidden and seamlessly appears when the user clicks on it. Similarly, clicking on the widget again makes it disappear, providing a sleek and unobtrusive search functionality to enhance user experience.
 
