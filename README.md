@@ -12,7 +12,7 @@ A versatile search widget project built using HTML, CSS, and JavaScript. This wi
 2. Open `index.html` in preferred browser
 
 ## Demo
-Check out the live demonstration of the Progress-steps [here](https://olumidedaramola21.github.io/Hidden-Search-Widget/)
+Check out the live demonstration [here](https://olumidedaramola21.github.io/Hidden-Search-Widget/)
 
 Feel free to customize it according to your specific project details and needs.
 
